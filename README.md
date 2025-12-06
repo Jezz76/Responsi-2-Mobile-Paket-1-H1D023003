@@ -13,7 +13,8 @@ Shift KRS : C
 
 ## VIDEO DEMO
 
-[Link Video Demo Aplikasi]
+https://github.com/user-attachments/assets/a1e43e08-dc30-4ec1-8cf8-6055bdd5aee4
+
 
 ## TECH STACK
 
