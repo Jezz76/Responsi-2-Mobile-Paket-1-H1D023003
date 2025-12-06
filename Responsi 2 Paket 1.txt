@@ -1,0 +1,35 @@
+RESPONSI 2 PAKET 1
+
+Anda memiliki sebuah supermarket yang menjual berbagai macam
+kategori barang didalamnya. Sekarang, anda memerlukan sebuah sistem
+untuk mencatat inventaris barang dengan kategori Komputer. Buatlah
+aplikasi Flutter untuk memenuhi kebutuhan tersebut.
+Catatan:
+●​ Nama aplikasi: Responsi 2 Mobile Paket 1 (NIM)
+●​ Wajib menggunakan nama dalam Action Bar. Contoh: Inventaris
+Komputer Abimart, Tambah Inventaris Abimart, dsb.
+●​ Wajib menggunakan warna abu-abu sebagai warna utama dalam
+aplikasi.
+●​ Wajib mengimplementasikan fitur Login dan Registrasi.
+●​ Wajib mengimplementasikan fitur CRUD.
+●​ Wajib membuat API terpisah (framework dibebaskan).
+●​ Inventaris tiap barang wajib mencatat:
+○​ Nama (string)
+○​ Harga (int)
+○​ Jumlah (int)
+○​ Tanggal Masuk (string)
+
+Pengumpulan:
+●​ Link pengumpulan.
+●​ Pengumpulan berupa link repositori Github dari aplikasi Flutter.
+●​ Didalam README wajib menyertakan nama, NIM, shift baru, shift
+asal, video demo aplikasi, spesifikasi API yang digunakan (seperti
+pada modul 10), dan penjelasan kode untuk tiap fungsi dalam
+aplikasi.
+●​ Perubahan pada repositori yang melebihi batas waktu
+pengumpulan akan membuat pengumpulan praktikan dihitung
+terlambat.
+
+Selamat Mengerjakan
+
+
